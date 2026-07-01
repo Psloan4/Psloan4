@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Peter
 
-<!--
-**Psloan4/Psloan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad from BYU specializing in robotics software engineering and AI. I'm interested in the intersection of autonomous systems, multi-agent behavior, and human-AI interaction.
 
-Here are some ideas to get you started:
+## What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Robotics & Autonomy** — ROS, C++, Linux, behavior modeling, action planning  
+**AI & Machine Learning** — PyTorch, reinforcement learning, multi-agent systems  
+**Languages** — Python, C++, TypeScript, JavaScript, Java, SQL  
+**Tools** — AWS, Supabase, Godot, Git  
+
+## What I'm Building
+
+- **GridHunt** — a multiplayer behavioral research platform studying cooperation and competition through gameplay, with AI agents trained on human data using GOAP and machine learning
+- **Autonomous model vehicle** — ROS-based self-driving car with sensor integration and PID control
+- **CSP Scheduler** — constraint satisfaction solver with backtracking and arc consistency for real-world scheduling
+
+## Links
+
+Email: pete.l.sloan@gmail.com
+LinkedIn: www.linkedin.com/in/peter-sloan-626664293
