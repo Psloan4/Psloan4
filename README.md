@@ -9,7 +9,7 @@ CS grad from BYU specializing in robotics software engineering and AI. I'm inter
 **Languages** — Python, C++, TypeScript, JavaScript, Java, SQL  
 **Tools** — AWS, Supabase, Godot, Git  
 
-## What I've Worked On
+## What I've Built
 
 - **GridHunt** — a multiplayer behavioral research platform studying cooperation and competition through gameplay, with AI agents trained on human data using GOAP and machine learning
 - **Autonomous model vehicle** — ROS-based self-driving car with sensor integration and PID control
