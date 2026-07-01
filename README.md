@@ -17,5 +17,5 @@ CS grad from BYU specializing in robotics software engineering and AI. I'm inter
 
 ## Links
 
-Email: pete.l.sloan@gmail.com
-LinkedIn: www.linkedin.com/in/peter-sloan-626664293
+Email: pete.l.sloan@gmail.com  
+LinkedIn: [linkedin.com/in/peter-sloan-626664293](https://www.linkedin.com/in/peter-sloan-626664293)
